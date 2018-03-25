@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.GateOut.Console.UI", "ITI.GateOut.Console.UI\ITI.GateOut.Console.UI.csproj", "{A1072959-38C2-4122-BD1A-C07ED8998DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.GateOut.Console.DAL", "ITI.GateOut.Console.DAL\ITI.GateOut.Console.DAL.csproj", "{829C8855-3BC7-430D-B04E-9AFA535F058B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1072959-38C2-4122-BD1A-C07ED8998DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1072959-38C2-4122-BD1A-C07ED8998DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1072959-38C2-4122-BD1A-C07ED8998DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1072959-38C2-4122-BD1A-C07ED8998DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829C8855-3BC7-430D-B04E-9AFA535F058B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829C8855-3BC7-430D-B04E-9AFA535F058B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829C8855-3BC7-430D-B04E-9AFA535F058B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829C8855-3BC7-430D-B04E-9AFA535F058B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
