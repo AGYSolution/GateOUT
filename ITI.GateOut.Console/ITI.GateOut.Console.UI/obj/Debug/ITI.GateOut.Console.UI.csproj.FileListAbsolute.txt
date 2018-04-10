@@ -1,0 +1,12 @@
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\obj\Debug\ITI.GateOut.Console.UI.csprojResolveAssemblyReference.cache
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\obj\Debug\ITI.GateOut.Console.UI.csproj.CoreCompileInputs.cache
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\bin\Debug\ITI.GateOut.Console.UI.exe.config
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\bin\Debug\ITI.GateOut.Console.UI.exe
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\bin\Debug\ITI.GateOut.Console.UI.pdb
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\bin\Debug\AGY.Solution.dll
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\bin\Debug\ITI.GateOut.Console.DAL.dll
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\bin\Debug\ITI.GateOut.Console.DAL.pdb
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\obj\Debug\ITI.GateOut.Console.UI.exe
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\obj\Debug\ITI.GateOut.Console.UI.pdb
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\bin\Debug\Npgsql.dll
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.UI\bin\Debug\Npgsql.xml

@@ -1,0 +1,8 @@
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\ITI.GateOut.Console.DAL.dll
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\ITI.GateOut.Console.DAL.pdb
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\obj\Debug\ITI.GateOut.Console.DAL.csproj.CoreCompileInputs.cache
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\obj\Debug\ITI.GateOut.Console.DAL.dll
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\obj\Debug\ITI.GateOut.Console.DAL.pdb
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\Npgsql.dll
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\Npgsql.xml
+C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\ReportPrinting.dll

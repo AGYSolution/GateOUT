@@ -30,8 +30,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Npgsql">
+      <HintPath>..\packages\Npgsql.3.2.7\lib\net45\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportPrinting">
+      <HintPath>..\ITI.GateOut.Console.UI\bin\Debug\ReportPrinting.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,8 +48,39 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActInCollection.cs" />
+    <Compile Include="AppConfig.cs" />
+    <Compile Include="BlackList.cs" />
+    <Compile Include="BlackListDAL.cs" />
+    <Compile Include="ConditionList.cs" />
+    <Compile Include="ContainerMapping.cs" />
+    <Compile Include="ContainerSpecification.cs" />
     <Compile Include="ContCard.cs" />
+    <Compile Include="ContCardDal.cs" />
+    <Compile Include="ContCardPic.cs" />
+    <Compile Include="ContCardPICDal.cs" />
+    <Compile Include="ContInOut.cs" />
+    <Compile Include="ContIntOutDAL.cs" />
+    <Compile Include="ContSizeList.cs" />
+    <Compile Include="ContSpec.cs" />
+    <Compile Include="ContTypeList.cs" />
+    <Compile Include="CtsCounter.cs" />
+    <Compile Include="CustDo.cs" />
+    <Compile Include="CustDoDAL.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="CustomerDAL.cs" />
+    <Compile Include="DefinedContainer.cs" />
+    <Compile Include="EirOutPrint_.cs" />
+    <Compile Include="GlobalAssistance.cs" />
+    <Compile Include="GlobalWebServiceDAL.cs" />
+    <Compile Include="InOutRevenue.cs" />
+    <Compile Include="InOutRevenueDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecureGateLog.cs" />
+    <Compile Include="SecureGateLogDAL.cs" />
+    <Compile Include="TruckInDepo.cs" />
+    <Compile Include="TruckInDepoDAL.cs" />
+    <Compile Include="WashStatusList.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
