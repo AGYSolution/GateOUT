@@ -95,7 +95,7 @@ namespace ITI.GateOut.Console.UI
                 _SecureGateLocName = "sgateout1";
             }
 
-            System.Console.WriteLine("welcome to Secure Gate Out Terminal " + Assembly.GetExecutingAssembly().GetName().Version.ToString() + ", the SCGOUT interactive terminal." + System.Console.Out.NewLine + System.Console.Out.NewLine + @"type: \c for copyright info" + System.Console.Out.NewLine + @"    : \h for help with SCGOUT command" + System.Console.Out.NewLine + @"    : \q to quit" + System.Console.Out.NewLine + System.Console.Out.NewLine + "warning: make sure barcode scanner & impact printer are connected and " + System.Console.Out.NewLine + "working properly. See SCGOUT manual page \"Installation and Setup\" for " + System.Console.Out.NewLine + "instruction.");
+            System.Console.WriteLine("welcome to Secure Gate Out System " + Assembly.GetExecutingAssembly().GetName().Version.ToString() + ", the SCGOUT interactive terminal." + System.Console.Out.NewLine + System.Console.Out.NewLine + @"type: \c for copyright info" + System.Console.Out.NewLine + @"    : \h for help with SCGOUT command" + System.Console.Out.NewLine + @"    : \q to quit" + System.Console.Out.NewLine + System.Console.Out.NewLine + "warning: make sure barcode scanner & impact printer are connected and " + System.Console.Out.NewLine + "working properly. See SCGOUT manual page \"Installation and Setup\" for " + System.Console.Out.NewLine + "instruction.");
             string str = ConfigurationSettings.AppSettings["loginserver"];
             if (string.IsNullOrEmpty(str))
             {
@@ -221,7 +221,7 @@ namespace ITI.GateOut.Console.UI
                     }
                     goto Label_07B0;
             }
-            System.Console.WriteLine("--- Welcome to gate app (GATE OUT)---");
+            //System.Console.WriteLine("--- Welcome to gate app (GATE OUT)---");
             //InputDataGate(service);
         }
 
