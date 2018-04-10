@@ -6,3 +6,13 @@ C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\obj\Deb
 C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\Npgsql.dll
 C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\Npgsql.xml
 C:\Project Gate\GateOT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\ReportPrinting.dll
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\ITI.GateOut.Console.DAL.dll
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\ITI.GateOut.Console.DAL.pdb
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\Npgsql.dll
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\ReportPrinting.dll
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\Npgsql.xml
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\obj\Debug\ITI.GateOut.Console.DAL.csprojResolveAssemblyReference.cache
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\obj\Debug\ITI.GateOut.Console.DAL.dll
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\obj\Debug\ITI.GateOut.Console.DAL.pdb
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Shared\ICTS\GateOUT\trunk\ITI.GateOut.Console\ITI.GateOut.Console.DAL\bin\Debug\System.Threading.Tasks.Extensions.xml

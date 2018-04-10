@@ -466,7 +466,7 @@ namespace ITI.GateOut.Console.UI
                 }
                 else
                 {
-                    input = input.Substring(0, input.Length - strArray[1].Length);
+                    //input = input.Substring(0, input.Length - strArray[1].Length);
                     posnumber = 1;
                     str = strArray[0];
                 }

@@ -234,7 +234,7 @@ namespace ITI.GateOut.Console.DAL
             ContInOut contInOut = new ContInOut();
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
@@ -275,7 +275,7 @@ namespace ITI.GateOut.Console.DAL
             ContInOut contInOut = new ContInOut();
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
@@ -325,7 +325,7 @@ namespace ITI.GateOut.Console.DAL
 
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
@@ -374,7 +374,7 @@ namespace ITI.GateOut.Console.DAL
             List<ContInOut> listContInOut = new List<ContInOut>();
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
@@ -423,7 +423,7 @@ namespace ITI.GateOut.Console.DAL
             List<ContInOut> listContInOut = new List<ContInOut>();
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
@@ -469,7 +469,7 @@ namespace ITI.GateOut.Console.DAL
             int affectedRow = 0;
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
@@ -505,7 +505,7 @@ namespace ITI.GateOut.Console.DAL
             int affectedRow = 0;
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {

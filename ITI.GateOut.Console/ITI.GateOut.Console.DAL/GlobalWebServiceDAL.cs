@@ -72,7 +72,7 @@ namespace ITI.GateOut.Console.DAL
         public static DateTime GetServerDtm()
         {
             DateTime serverDateTime = DateTime.Now;
-            using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+            using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
             {
                 npgsqlConnection.Open();
                 NpgsqlCommand npgsqlCommand = new NpgsqlCommand("SELECT now() ", npgsqlConnection);
@@ -93,7 +93,7 @@ namespace ITI.GateOut.Console.DAL
             string result = string.Empty;
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {

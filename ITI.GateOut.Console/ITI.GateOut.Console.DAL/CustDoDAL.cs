@@ -65,7 +65,7 @@ namespace ITI.GateOut.Console.DAL
             CustDo custDo = new CustDo();
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {

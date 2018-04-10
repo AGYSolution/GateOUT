@@ -51,7 +51,7 @@ namespace ITI.GateOut.Console.DAL
             string message = string.Empty;
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
@@ -91,7 +91,7 @@ namespace ITI.GateOut.Console.DAL
             string message = string.Empty;
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
@@ -138,7 +138,7 @@ namespace ITI.GateOut.Console.DAL
             string message = string.Empty;
             try
             {
-                using (NpgsqlConnection npgsqlConnection = AppConfig.GetUserConnection())
+                using (NpgsqlConnection npgsqlConnection = AppConfig.GetConnection())
                 {
                     if (npgsqlConnection.State == ConnectionState.Closed)
                     {
